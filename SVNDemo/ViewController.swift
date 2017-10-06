@@ -28,11 +28,13 @@ class ViewController: UIViewController, AVAudioRecorderDelegate {
                         self.loadRecordingUI()
                     } else {
                         // failed to record!
+                        
                     }
                 }
             }
         } catch {
             // failed to record!
+            // Tushar
         }
     }
 
