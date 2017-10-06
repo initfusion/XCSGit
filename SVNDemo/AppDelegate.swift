@@ -41,7 +41,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
         
         
-        // Hello Dharmesh Here...
+        // Hello Dharmesh Done by tushar
         // Tushar
         // Hi denish
     }
